@@ -1,1 +1,1 @@
-# corrupt
+# corrupt is a python package that auto corrupt str and numbers
